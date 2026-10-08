@@ -10,7 +10,7 @@ push, and `.github/workflows/publish.yml` tags the commit, creates the GitHub re
 using the matching section below, and publishes to npm. A release will **fail** if
 this file has no `## [x.y.z]` section for the version being released.
 
-## [0.2.0] - YYYY-MM-DD
+## [0.2.0] - 2026-10-08
 
 ### Added
 
